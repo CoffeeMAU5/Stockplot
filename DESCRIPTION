@@ -1,0 +1,9 @@
+Package: stockplot
+Type: Package
+Title: Plotting Relative Returns of Two Stocks
+Version: 1.0
+Date: 2016-12-06
+Author: Villegas, J.G.
+Maintainer: Joshua Villegas <joshua.g.villegas@gmail.com>
+Description: Takes historical daily closing prices of two different stocks and compares overall return since starting date of data.
+License: GPL-2
